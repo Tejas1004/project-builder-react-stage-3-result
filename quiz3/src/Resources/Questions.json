@@ -1,0 +1,123 @@
+[
+    {
+        "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        "optionA": "1850",
+        "optionB": "1880",
+        "optionC": "1930",
+        "optionD": "1950",
+        "answer": "1880"
+    },
+    {
+        "question": "What is part of a database that holds only one type of information?",
+        "optionA": "Report",
+        "optionB": "Field",
+        "optionC": "Record",
+        "optionD": "File",
+        "answer": "Field"
+    },
+    {
+        "question": "'OS' computer abbreviation usually means ?",
+        "optionA": "Order of Significance",
+        "optionB": "Open Software",
+        "optionC": "Operating System",
+        "optionD": "Optical Sensor",
+        "answer":"Operating System"
+    },
+    {
+        "question": "OS in computer field is known as?",
+        "optionA": "Operating System",
+        "optionB": "Operation System",
+        "optionC": "Operating Science",
+        "optionD": "Operation Science",
+        "answer": "Operating System"
+    },
+    {
+        "question":"Complete the formula: Speed = _____ / Time",
+        "optionA": "Mass",
+        "optionB": "Direction",
+        "optionC": "Distance",
+        "optionD": "Temprature",
+        "answer": "Distacne"
+    },
+    {
+        "questions": "In which decade with the first transatlantic radio broadcast occur?",
+        "optionA": "1850",
+        "optionB": "1860",
+        "optionC": "1870",
+        "optionD": "1900",
+        "answer": "1900"
+
+    },
+    {
+        "questions": "Who is the father of C language?",
+        "optionA": "Steve Jobs",
+        "optionB": "James Gosling",
+        "optionC": "Dennis Ritchie",
+        "optionD": " Rasmus Lerdorf",
+        "answer":"Dennis Ritchie"
+    },
+    {
+        "questions": "All keywords in C are in ____________",
+        "optionA":  " LowerCase letters",
+        "optionB": "UpperCase letters",
+        "optionC": "CamelCase letters",
+        "optionD": "None of the mentioned"
+    },
+    {
+        "question": "Dennis Ritchie is the inventor of which programming language?",
+        "optionA": "Java Programming",
+        "optionB": "Python",
+        "optionC": "C programming",
+        "optionD": "Fortran",
+        "answer": "C Programming" 
+    },
+    {
+        "question": "What is the currency of India? ",
+        "optionA": "Dollar",
+        "optionB": "Euro",
+        "optionC": "Won",
+        "optionD": "Rupee",
+        "answer": "Rupee"
+    },
+    {
+        "question": "What is 2+2=?",
+        "optionB": "3",
+        "optionA": "4",
+        "optionC": "1",
+        "optionD": "2",
+        "answer": "4" 
+    },
+    {
+        "question": "How many Number of planets are there in our solar system? ",
+        "optionA":"9",
+        "optionB": "10",
+        "optionC": "11",
+        "optionD": "12",
+        "answer":"9"
+    },
+    {
+        
+        "question": "Who is the inventor of computer?",
+        "optionA": "Charles Babbage",
+        "optionB": "Graham Bell",
+        "optionC": "Edison",
+        "optionD": "Max",
+        "answer": "Charles Babbage" 
+    },
+    {
+        "question": "Bredan Eich is the creator of?",
+        "optionA": "Java Programming",
+        "optionB": "C programming",
+        "optionC": "Python ",
+        "optionD": "Javascript",
+        "answer": "Javascript" 
+    },
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    }
+]

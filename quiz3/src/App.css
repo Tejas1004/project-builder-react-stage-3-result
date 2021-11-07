@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #40407a;
+}
+h1{
+  font-family: 'Fantasy';
+}
+button{
+  height: 7vh;
+  width: 19vw;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  margin-top: 3vh;
+  background: #57b846;
+  color: aliceblue;
+  font-size: large;
+}

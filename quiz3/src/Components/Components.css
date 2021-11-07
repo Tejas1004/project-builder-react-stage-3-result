@@ -1,0 +1,145 @@
+*{
+    margin: 0%;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+   
+    background: rgb(64, 64, 136);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+/* Home component */
+
+.homeContainer{
+  margin:15rem;
+  font-size:xx-large;
+  color:white;
+  text-align: center;
+
+}
+.homeContainer button
+{
+    
+width:12rem;
+height: 2rem;
+font-size: large;
+color:white;
+background-color: rgb(13, 112, 13);
+border-radius: 20px;
+
+}
+
+/* Quiz Component */
+.quizContainer{
+    width: 60rem;;
+    height: auto;
+    margin:10rem;
+    padding:25px;
+    background-color: white;
+    /* transform: translateY(-150px); */
+  }
+  .question_No{
+    text-align: left;
+    color:grey;
+    transform:translateY(15px);
+
+
+  }
+  .question{
+      text-align: center;
+      color:grey;
+
+  }
+  .options{
+      display:flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .options button{
+      width:25rem;
+      height:2rem;
+      margin:20px;
+      border-radius: 20px;
+      border:2px solid rgb(33, 136, 177);
+      background-color: rgb(33, 136, 177);
+      color:white;
+  }
+  .keys{
+      display: flex;
+      justify-content: center;
+  }
+  .keys button{
+      width:100px;
+      height:50px;
+      margin:10px;
+      color:white;
+      border:2px solid transparent;
+      text-align: center;
+      border-radius:10px;
+  }
+  .prev{
+      background-color: steelblue;
+      padding: 5px;
+  }
+  .next{
+      background-color: green;
+      padding: 5px;
+  }
+  .quit{
+      background-color: tomato;
+      padding: 5px;
+  }
+  .heading{
+      color:grey;
+      font-size: xx-large;
+      text-align: center;
+  }
+
+  /* Result Component */
+  .resultContainer{
+      transform: translateY(-5rem);
+      text-align:center;
+  }
+  .resultContainer p{
+      font-size:xx-large;
+      color:rgb(21, 180, 21);
+      font-weight:500;
+  }
+
+  .innerbox{
+      width:40rem;
+      height:auto;
+      background-color: white;
+      margin-left: 22rem;
+      padding:20px;
+  }
+  .comment{
+      font-size: x-large;
+      color:rgb(121, 116, 116);
+  }
+  .score{
+      font-size: xx-large;
+      color:lightseagreen;
+      padding:20px;
+  }
+  .details > div{
+      display:flex;
+      justify-content:space-between;
+     color:rgb(121, 118, 118)
+  }
+  .resultContainer button{
+      margin:30px;
+      width:150px;
+      padding:5px;
+      font-size: large;
+      background-color: transparent;
+  }
+  .backToHome{
+      color:rgb(12, 180, 12);
+      border: 2px solid rgb(12, 180, 12);
+  }
+  .playAgain{
+          color:rgb(93, 102, 240);
+    border: 2px solid rgb(93,102,240);
+}
